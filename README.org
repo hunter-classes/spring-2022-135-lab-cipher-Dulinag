@@ -6,7 +6,7 @@
 
 * GitHub username: Dulinag
 
-* Notes: My code Prints out the 26 rotations and their freqencies with the correct one.
+* Notes: My code Prints out the 26 rotations and their frequencies with the correct one.
 
 
 
